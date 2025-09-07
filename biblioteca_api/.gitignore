@@ -1,0 +1,12 @@
+# Archivos de base de datos
+*.sqlite3
+
+# Archivos de caché de Python y Django
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+
+# Archivos de media/subidos por el usuario (si es aplicable)
+media/
